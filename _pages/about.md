@@ -16,9 +16,6 @@ I have been interested in recommender systems, with a particular focus on
 - Generative recommendation
 
 
-[[Google Scholar]](https://scholar.google.com/citations?user=MGGTtO4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/yuanna-liu-b37443317/) [[Twitter]](https://x.com/YuannaLiu6) [[ORCID]](https://orcid.org/0000-0002-9868-6578)
-
-
 
 Publications
 ======
