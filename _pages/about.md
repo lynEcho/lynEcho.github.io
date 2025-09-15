@@ -78,7 +78,7 @@ Academic Service
 ====== 
 * Conference reviewer: ACM Transactions on Information Systems (TOIS), Transactions on Knowledge and Data Engineering (TKDE)  
 * Journal reviewer: CLEF 2024, ICTIR 2023 
-* Sub-reviewer: SIGIR 2024, WSDM 2025, ECIR 2025
+* Sub-reviewer: SIGIR 2024, WSDM 2025, ECIR 2025, WSDM 2026
 * Volunteer: 15th European Summer School on Information Retrieval (ESSIR 2024)
 
 
