@@ -15,7 +15,7 @@ I have been interested in recommender systems, with a particular focus on
 - Beyond-accuracy objectives: fairness & diversity
 - Generative recommendation
 
-
+Besides my research, I'm also learning piano, hoping it might somehow help along the way.
 
 Publications
 ======
