@@ -10,10 +10,10 @@ redirect_from:
 I am Yuanna Liu, a Ph.D. student from the University of Amsterdam (UvA), supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 
 
-I have been interested in recommender systems, with a particular focus on
-- Complex item set recommendation: next basket recommendation, bundle recommendation 
-- Beyond-accuracy objectives: fairness & diversity
+I have been interested in recommender systems, with a particular focus on:
 - Generative recommendation
+- Beyond-accuracy objectives: fairness & diversity
+- Complex item set recommendation: next basket recommendation, bundle recommendation 
 
 Besides my research, I'm also learning piano, hoping it might somehow help along the way.
 
