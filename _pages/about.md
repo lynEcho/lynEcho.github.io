@@ -11,10 +11,8 @@ I am Yuanna Liu, a Ph.D. student from the University of Amsterdam (UvA), supervi
 
 
 I have been interested in building trustworthy recommender systems, with a particular focus on:
-- Generative recommendation
-- Beyond-accuracy objectives: fairness & bias
-- Complex item set recommendation: next basket, bundle recommendation 
-
+- Generative recommendation, where generative language models are adapted for next-item and next-set recommendation
+- Beyond-accuracy objective optimization, including fairness and bias mitigation in recommendation algorithms.
 
 Publications
 ======
