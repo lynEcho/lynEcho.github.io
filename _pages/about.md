@@ -17,6 +17,10 @@ I have been interested in building trustworthy recommender systems, with a parti
 Publications
 ======
 
+**A Systematic Reproducibility Study of BSARec for Sequential Recommendation** <br>
+Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu**
+Accepted by **ECIR 2026**
+
 **A Reproducibility Study of Product-side Fairness in Bundle Recommendation**<br>
 Huy Son Nguyen<sup>#</sup>, **Yuanna Liu<sup>#</sup>(co-first author)**, Masoud Mansoury, Mohammad Aliannejadi, Alan Hanjalic, Maarten de Rijke       
 **RecSys 2025**: The 19th ACM Conference on Recommender Systems            
