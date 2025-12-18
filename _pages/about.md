@@ -18,7 +18,7 @@ Publications
 ======
 
 **A Systematic Reproducibility Study of BSARec for Sequential Recommendation** <br>
-Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu**
+Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu** <br>
 Accepted by **ECIR 2026**
 
 **A Reproducibility Study of Product-side Fairness in Bundle Recommendation**<br>
