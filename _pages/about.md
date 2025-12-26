@@ -18,7 +18,7 @@ Publications
 ======
 
 **A Systematic Reproducibility Study of BSARec for Sequential Recommendation** <br>
-Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu** <br>
+Jan Hutter, Hua Chang Bakker, Stan Fris, Madelon Bernardy, **Yuanna Liu** <br>
 **ECIR 2026**: The 48th European Conference on Information Retrieval     
 [[pdf]](https://arxiv.org/abs/2512.17442) [[code]](https://github.com/Janhutter/BSARec)
 
