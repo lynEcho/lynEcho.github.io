@@ -18,8 +18,9 @@ Publications
 ======
 
 **A Systematic Reproducibility Study of BSARec for Sequential Recommendation** <br>
-Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu** <br>
-Accepted by **ECIR 2026**
+Jan Hutter, Hua Chang Bakker, Stan Fris, Angela Madelon Bernardy, **Yuanna Liu** 
+**ECIR 2026**: The 48th European Conference on Information Retrieval     
+[[pdf]](https://arxiv.org/abs/2512.17442) [[code]](https://github.com/Janhutter/BSARec)
 
 **A Reproducibility Study of Product-side Fairness in Bundle Recommendation**<br>
 Huy Son Nguyen<sup>#</sup>, **Yuanna Liu<sup>#</sup>(co-first author)**, Masoud Mansoury, Mohammad Aliannejadi, Alan Hanjalic, Maarten de Rijke       
