@@ -14,7 +14,7 @@ I have been interested in building trustworthy recommender systems, with a parti
 - Generative recommendation, where generative language models are adapted for next-item and next-set recommendation
 - Beyond-accuracy objective optimization, including fairness and bias mitigation in recommendation algorithms.
 
-<p style="color: #65778a; font-style: italic; letter-spacing: 1px; font-size: 1.25em;">
+<p style="color: #2a3f5f; font-style: italic;">
 
 My research is driven by the belief that <br>
 observable complexity arises from an underlying generative process,<br>
