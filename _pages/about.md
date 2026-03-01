@@ -11,7 +11,7 @@ I am Yuanna Liu, a Ph.D. student from the University of Amsterdam (UvA), supervi
 
 
 I have been interested in building trustworthy recommender systems, with a particular focus on:
-- Generative recommendation, where generative language models are adapted for next-item and next-set recommendation
+- Generative recommendation, where semantic IDs are learned via the quantization of item metadata and user–item interactions, and transformer-based generative models are developed for next-item recommendation 
 - Beyond-accuracy objective optimization, including fairness and bias mitigation in recommendation algorithms.
 
 <p style="color: #6b8fb5; font-style: italic;">
@@ -88,7 +88,7 @@ I have contributed to open-source toolkit in information retrieval:
 Academic Service
 ====== 
 * Journal reviewer: ACM Transactions on Information Systems (TOIS), Transactions on Knowledge and Data Engineering (TKDE)  
-* Conference reviewer: CLEF 2024, ICTIR 2023, ECIR 2026 
+* Conference reviewer: CLEF 2024, ICTIR 2023, ECIR 2026, SIGIR 2026 
 * Sub-reviewer: SIGIR 2024, WSDM 2025, ECIR 2025, WSDM 2026
 * Volunteer: 15th European Summer School on Information Retrieval (ESSIR 2024)
 
