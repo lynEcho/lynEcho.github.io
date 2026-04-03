@@ -71,7 +71,10 @@ Teaching & Supervision
   - **Fairness in Information Retrieval from an Economic Perspective** <br>
     Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
     **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval      
-    [[website]](https://economic-fairness-ir.github.io/)     
+    [[website]](https://economic-fairness-ir.github.io/)
+  - **Economic Perspectives on Fairness in Information Retrieval** <br>
+    Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
+    **ECIR 2026**: The 48th European Conference on Information Retrieval  
   
 * Teaching assistant: 
   - Recommender Systems, June, 2025, University of Amsterdam; guest lecture, project design & supervision
