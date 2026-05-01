@@ -26,7 +26,7 @@ and that learning this process is the key to prediction.
 News
 ======
 
-- April 2026: Selected as a DAAD AInet Fellow (AI in Neuroscience, 2026).
+- April 2026: I am happy to be selected as a DAAD AInet Fellow (AI in Neuroscience, 2026).
 
 
 Publications
