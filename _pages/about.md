@@ -11,8 +11,8 @@ I am Yuanna Liu, a Ph.D. student from the University of Amsterdam (UvA), supervi
 
 
 I have been interested in building trustworthy recommender systems, with a particular focus on:
-- Generative recommendation: learning semantic IDs through the quantization of item metadata and user–item interactions, and designing transformer-based generative models for next-item recommendation 
-- Beyond-accuracy objective optimization, including fairness and bias mitigation in recommendation algorithms.
+- Evaluation and optimization of beyond-accuracy objectives, including fairness, diversity and bias mitigation in recommender systems
+- Generative recommendation: learning semantic IDs through the quantization of item metadata and user–item interactions, and designing transformer-based generative models for sequential recommendation
 
 <p style="color: #6b8fb5; font-style: italic;">
 
@@ -82,7 +82,8 @@ Teaching & Supervision
     Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
     **ECIR 2026**: The 48th European Conference on Information Retrieval  
   
-* Teaching assistant: 
+* Teaching assistant:
+  - Recommender Systems, June, 2026, University of Amsterdam; project design & supervision
   - Recommender Systems, June, 2025, University of Amsterdam; guest lecture, project design & supervision
   - Recommender Systems, June, 2024, University of Amsterdam; guest lecture, project design & supervision
   - Information Retrieval 1, Feb. - Mar., 2024, University of Amsterdam; lab, grading, exam designing
@@ -98,7 +99,7 @@ I have contributed to open-source toolkit in information retrieval:
 Academic Service
 ====== 
 * Journal reviewer: ACM Transactions on Information Systems (TOIS), Transactions on Knowledge and Data Engineering (TKDE)  
-* Conference reviewer: CLEF 2024, ICTIR 2023, ECIR 2026, SIGIR 2026 
+* Conference reviewer: CLEF 2024, ICTIR 2023, ECIR 2026, SIGIR 2026, CIKM 2026 
 * Sub-reviewer: SIGIR 2024, WSDM 2025, ECIR 2025, WSDM 2026
 * Volunteer: 15th European Summer School on Information Retrieval (ESSIR 2024)
 
