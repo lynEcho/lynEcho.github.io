@@ -12,7 +12,7 @@ I am Yuanna Liu, a Ph.D. student from the University of Amsterdam (UvA), supervi
 
 I have been interested in building trustworthy recommender systems, with a particular focus on:
 - Evaluation and optimization of beyond-accuracy objectives, including fairness, diversity and bias mitigation in recommender systems
-- Generative recommendation: learning semantic IDs through the quantization of item metadata and user–item interactions, and designing transformer-based generative models for sequential recommendation
+- Generative recommendation: semantic ID-based recommenders and LLM-as-recommenders
 
 <p style="color: #6b8fb5; font-style: italic;">
 
