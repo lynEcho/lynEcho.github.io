@@ -14,13 +14,6 @@ I have been interested in building trustworthy recommender systems, with a parti
 - Evaluation and optimization of beyond-accuracy objectives, including fairness, diversity and bias mitigation in recommender systems
 - Generative recommendation: semantic ID-based recommenders and LLM-as-recommenders
 
-<p style="color: #6b8fb5; font-style: italic;">
-
-My research is driven by the belief that <br>
-observable complexity arises from an underlying generative process,<br>
-and that learning this process is the key to prediction.
-
-</p>
 
 
 News
