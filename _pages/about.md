@@ -73,7 +73,13 @@ Teaching & Supervision
     [[website]](https://economic-fairness-ir.github.io/)
   - **Economic Perspectives on Fairness in Information Retrieval** <br>
     Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
-    **ECIR 2026**: The 48th European Conference on Information Retrieval  
+    **ECIR 2026**: The 48th European Conference on Information Retrieval
+  - **Towards a Responsible Web: Economic Perspectives on Fairness in Information Retrieval** <br>
+    Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
+    **WWW 2026**: The ACM Web Conference
+  - **Fairness in Information Retrieval: An Economic Perspective** <br>
+    Chen Xu, Clara Rus, **Yuanna Liu**, Marleen de Jonge, Jun Xu, Maarten de Rijke <br> 
+    **ICMR 2026**: The 16th ACM International Conference on Multimedia Retrieval 
   
 * Teaching assistant:
   - Recommender Systems, June, 2026, University of Amsterdam; project design & supervision
